@@ -1,0 +1,26 @@
+{
+  "name": "RNOpenTok",
+  "version": "2.1.0",
+  "summary": "React Native OpenTok",
+  "description": "React Native OpenTok",
+  "license": "MIT",
+  "authors": "Callstack <mobile-dev@callstack.com>",
+  "homepage": "http://callstack.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/callstack/react-native-opentok.git",
+    "tag": "master"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "OpenTok": [
+
+    ]
+  }
+}
